@@ -1,6 +1,6 @@
 ## INTRO
 
-UW CSE 583 Software Development for Data Scientists Course Project Page (link)[http://uwseds.github.io]
+UW CSE 583 Software Development for Data Scientists Course Project Page [link](http://uwseds.github.io)
 
 <!--
 
